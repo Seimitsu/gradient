@@ -1,0 +1,23 @@
+body {
+    background: linear-gradient(to right, red, #008aff);
+    text-align: center;   
+}
+
+h1 {
+    color: rgba(0,0,0,.5);
+    text-transform: uppercase;
+    letter-spacing: .5em;
+}
+
+#cover {
+    margin-top: 15%; 
+}
+
+#colors {
+    margin-bottom: 1%;
+}
+
+h4 {
+    width: auto;
+    border: 3px solid;
+}
